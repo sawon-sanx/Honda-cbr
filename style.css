@@ -5,3 +5,26 @@
 small{
     color: #E76F51;
 }
+
+.featured{
+    filter: grayscale(100%);
+}
+
+.faq{
+    color:#E76F51;
+}
+
+.img3{
+   
+    clip-path: circle();
+}
+
+.filed, .empty{
+    color: #E77C40;
+
+}
+
+.client{
+    color: #23A6F0;
+
+}
